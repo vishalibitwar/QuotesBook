@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Charles Horton Cooley ",
+      "body": "I am not what I think I am, and I am not what you think I am. I am what I think you think I am.",
+      "id": 1
+    },
+    {
+      "title": "Aristotle",
+      "body": "Quality is not an act, it is a habit.",
+      "id": 4
+    },
+    {
+      "title": "Jen Sincero",
+      "body": "Worrying is like praying for something That you don't want.",
+      "id": 3
+    }
+  ]
+}
